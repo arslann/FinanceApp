@@ -1,0 +1,98 @@
+{
+  "common": {
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "add": "Ekle",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "confirm": "Onayla",
+    "amount": "Miktar",
+    "description": "Açıklama",
+    "date": "Tarih",
+    "category": "Kategori",
+    "type": "Tür"
+  },
+  "navigation": {
+    "dashboard": "Ana Sayfa",
+    "transactions": "İşlemler",
+    "categories": "Kategoriler",
+    "analytics": "Analitik",
+    "settings": "Ayarlar"
+  },
+  "dashboard": {
+    "title": "Ana Sayfa",
+    "totalBalance": "Toplam Bakiye",
+    "monthlyIncome": "Aylık Gelir",
+    "monthlyExpenses": "Aylık Giderler",
+    "recentTransactions": "Son İşlemler",
+    "viewAll": "Tümünü Gör",
+    "noTransactions": "Henüz işlem yok"
+  },
+  "transactions": {
+    "title": "İşlemler",
+    "addTransaction": "İşlem Ekle",
+    "income": "Gelir",
+    "expense": "Gider",
+    "editTransaction": "İşlemi Düzenle",
+    "deleteTransaction": "İşlemi Sil",
+    "confirmDelete": "Bu işlemi silmek istediğinizden emin misiniz?",
+    "transactionAdded": "İşlem başarıyla eklendi",
+    "transactionUpdated": "İşlem başarıyla güncellendi",
+    "transactionDeleted": "İşlem başarıyla silindi"
+  },
+  "categories": {
+    "title": "Kategoriler",
+    "addCategory": "Kategori Ekle",
+    "editCategory": "Kategori Düzenle",
+    "deleteCategory": "Kategori Sil",
+    "incomeCategories": "Gelir Kategorileri",
+    "expenseCategories": "Gider Kategorileri",
+    "categoryName": "Kategori Adı",
+    "selectColor": "Renk Seç",
+    "confirmDelete": "Bu kategoriyi silmek istediğinizden emin misiniz?",
+    "categoryAdded": "Kategori başarıyla eklendi",
+    "categoryUpdated": "Kategori başarıyla güncellendi",
+    "categoryDeleted": "Kategori başarıyla silindi",
+    "cannotDeleteDefault": "Varsayılan kategoriler silinemez"
+  },
+  "analytics": {
+    "title": "Analitik",
+    "expensesByCategory": "Kategoriye Göre Giderler",
+    "incomeVsExpenses": "Gelir vs Giderler",
+    "monthlyTrend": "Aylık Trend",
+    "thisMonth": "Bu Ay",
+    "lastMonth": "Geçen Ay",
+    "thisYear": "Bu Yıl",
+    "noData": "Veri bulunamadı"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "currency": "Para Birimi",
+    "theme": "Tema",
+    "notifications": "Bildirimler",
+    "about": "Hakkında",
+    "version": "Sürüm",
+    "english": "İngilizce",
+    "turkish": "Türkçe",
+    "light": "Açık",
+    "dark": "Koyu",
+    "usd": "Amerikan Doları (USD)",
+    "eur": "Euro (EUR)",
+    "try": "Türk Lirası (TRY)"
+  },
+  "defaultCategories": {
+    "salary": "Maaş",
+    "freelance": "Serbest Çalışma",
+    "otherIncome": "Diğer Gelir",
+    "rent": "Kira",
+    "groceries": "Market",
+    "transportation": "Ulaşım",
+    "utilities": "Faturalar",
+    "entertainment": "Eğlence",
+    "healthcare": "Sağlık"
+  }
+}
